@@ -30,12 +30,12 @@ body {
 }
 
 .title-section {
-  background-color: #2e2f42;
+  background-color: var(--dark);
 }
 
 .page-title {
   font-size: 56px;
-  font-weight: 700;
+  /* font-weight: 700; */
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
@@ -65,7 +65,7 @@ body {
 
 .section-title {
   font-size: 36px;
-  font-weight: 700;
+  /* font-weight: 700; */
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
